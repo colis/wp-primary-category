@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-04 18:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/class-wp-primary-category-admin.php:45
+msgid "Primary Category"
+msgstr ""
+
+#: includes/class-wp-primary-category-admin.php:66
+msgid ""
+"Choose a category from the list to make it primary, and update the post."
+msgstr ""
+
+#: includes/class-wp-primary-category-admin.php:69
+msgid "Select a category..."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Primary Category"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin allows publishers to designate a primary category for posts."
+msgstr ""
+
+#. Author of the plugin
+msgid "Carmine Colicino"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/colis/"
+msgstr ""
